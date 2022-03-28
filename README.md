@@ -12,9 +12,12 @@ Guideline for ssh client configuration \
 Guideline for ssh server configuration \
     • https://man7.org/linux/man-pages/man5/sshd_config.5.html \
 Version of openssh \
-    • OpenSSH_7.6p1 \
-    
+    • OpenSSH_7.6p1 
+  
 Note: The parameters listed in the table should be added to the SSH server and client configuration files that have already been prepared and uploaded to this repository, and should be replaced in their respective paths.
+
+To provide more security, disable PasswordAuthentication in sshd_config. \
+PasswordAuthentication yes
 
 ![ssh-part-1](https://user-images.githubusercontent.com/87664653/159468039-fddde59f-8464-4c51-b57f-6b0e2506b07e.png)
 ![ssh-part-2](https://user-images.githubusercontent.com/87664653/159468311-935f5e22-3fc3-442d-9488-2660c416cdde.png)
