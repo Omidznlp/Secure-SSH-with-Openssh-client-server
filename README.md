@@ -18,7 +18,7 @@ Note: The parameters listed in the table should be added to the SSH server and c
 
 To provide more security, disable PasswordAuthentication in sshd_config and change the ssh port\
 PasswordAuthentication yes \
-Port <port_number> 
+Port <port_number> \
 ![ssh-part-1](https://user-images.githubusercontent.com/87664653/159468039-fddde59f-8464-4c51-b57f-6b0e2506b07e.png)
 ![ssh-part-2](https://user-images.githubusercontent.com/87664653/159468311-935f5e22-3fc3-442d-9488-2660c416cdde.png)
 ![ssh-part-3](https://user-images.githubusercontent.com/87664653/159468062-63bd4025-4636-40c5-adbc-327c944137de.png)
