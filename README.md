@@ -24,8 +24,7 @@ Port <port_number> \
 ![ssh-part-3](https://user-images.githubusercontent.com/87664653/159468062-63bd4025-4636-40c5-adbc-327c944137de.png)
 
 ## FYI
-Please check Extended Package for Secure Shell (SSH) \
-https://www.niap-ccevs.org/MMO/PP/-389-/ \
+Please Extended Package for Secure Shell (SSH) \
 FCS_SSHC_EXT.1.4 \
 FCS_SSHS_EXT.1.4 \
 FCS_SSHC_EXT.1.5 \
@@ -36,3 +35,5 @@ FCS_SSHC_EXT.1.7 \
 FCS_SSHS_EXT.1.7 \
 FCS_SSHC_EXT.1.8 \
 FCS_SSHS_EXT.1.8 \
+at the following link \
+https://www.niap-ccevs.org/MMO/PP/-389-/
