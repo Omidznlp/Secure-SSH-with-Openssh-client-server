@@ -89,5 +89,5 @@ FCS_SSHS_EXT.1.7 \
 The SSH server shall ensure that the SSH connection be rekeyed after [selection: no more than 2 28 packets have been transmitted, no more than 1 Gigabyte of data has been transmitted, no more than 1 hour] using that key.
 ```
 ## Source
-Please read More information aboutExtended Package for Secure Shell (SSH) at the following link \
+Please read More information about Extended Package for Secure Shell (SSH) at the following link \
 https://www.niap-ccevs.org/MMO/PP/-389-/
