@@ -13,7 +13,7 @@ Guideline for ssh server configuration \
     • https://man7.org/linux/man-pages/man5/sshd_config.5.html \
 Version of openssh \
     • OpenSSH_7.6p1 
-  
+Please give an star if it uses this repository.:)
 Note: The parameters listed in the table should be added to the SSH server and client configuration files that have already been prepared and uploaded to this repository, and should be replaced in their respective paths.
 
 To provide more security, disable PasswordAuthentication and change the ssh port in sshd_config \
