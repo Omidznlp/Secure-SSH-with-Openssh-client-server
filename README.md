@@ -16,7 +16,7 @@ Version of openssh \
 Note: The parameters listed in the table should be added to the SSH server and client configuration files that have already been prepared and uploaded to this repository, and should be replaced in their respective paths.
 
 To provide more security, disable PasswordAuthentication and change the ssh port in sshd_config \
-PasswordAuthentication yes \
+PasswordAuthentication no \
 Port <port_number> \
 ![ssh-part-1](https://user-images.githubusercontent.com/87664653/159468039-fddde59f-8464-4c51-b57f-6b0e2506b07e.png)
 ![ssh-part-2](https://user-images.githubusercontent.com/87664653/159468311-935f5e22-3fc3-442d-9488-2660c416cdde.png)
