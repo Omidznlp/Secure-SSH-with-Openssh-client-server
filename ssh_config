@@ -38,7 +38,7 @@ Host *
 #   Port 22
     Protocol 2
     ciphers aes128-cbc,aes256-cbc,aes128-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
-    MACs hmac-sha1,hmac-sha1-96,hmac-sha2-256,Hmac-sha2-512
+    MACs hmac-sha1,hmac-sha1-96,hmac-sha2-256,hmac-sha2-512
 #   EscapeChar ~
 #   Tunnel no
 #   TunnelDevice any:any
